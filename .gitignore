@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 .Rproj.user/
+*.html
+/libs/
+!_book/*.html
