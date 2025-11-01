@@ -6,3 +6,6 @@
 *.html
 /libs/
 !_book/*.html
+_book/index.html
+_book/references.html
+_book/search_index.json
