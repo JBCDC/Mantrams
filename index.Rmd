@@ -1,0 +1,54 @@
+--- 
+title: "Mantrams for Mindfulness and Healing"
+author: "José Becerra"
+date: "2025-09-24; revised: `r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  Musicalized mantrams for mindfulness
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# About {-}
+
+This is an audio book of mantrams musicalized by José Becerra assisted by AI (SUNO.ai) and other musical adaptations of prayers by others.
+
+---
+
+<center>
+[Solar System Scope](https://www.solarsystemscope.com/)<br>
+<iframe src="https://www.solarsystemscope.com/iframe" width="500" height="400" style="min-width:500px; min-height: 400px; border: 2px solid #0f5c6e;"></iframe>
+</center>
+
+Once activated (click on START), you may interact with the video to zoom in and out, as well as to move the plane of observation up and down.
+
+---
+
+<center>
+[Peder B. Helland - Flying](https://www.youtube.com/watch?v=mBsaY0OcYpY)
+</center>
+
+<br>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mBsaY0OcYpY" frameborder="0" allowfullscreen></iframe>
+</center>
+
+May be listened to as we travel through space with the Solar System Scope.
+
+---
+
+<center>
+[Cosmic Grace (Meditation with Crystal Singing Bowls) by Ashana](https://www.youtube.com/watch?v=jd6cxHNsy2U) 
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jd6cxHNsy2U" frameborder="0" allowfullscreen></iframe>
+</center>
+
+
+
